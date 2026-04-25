@@ -71,7 +71,7 @@ python "Exp_1_Introduction_to_Machine_Learning-1.py"
 
 ## Author
 
-Ashutosh
+Aditya Raj
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:005F73,50:0A9396,100:94D2BD" alt="footer" />
